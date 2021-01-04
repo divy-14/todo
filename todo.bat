@@ -1,3 +1,3 @@
 @echo off
 
-python3 todo.py %1 %2
+"C:\Users\divym\.conda\envs\pytorchlearn\python.exe" "todo.py" %1 %2
