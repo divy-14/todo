@@ -1,10 +1,9 @@
-# CoronaSafe Engineering Fellowship Test Problem
+# Todo List Script..
 
-Thanks for applying to the CoronaSafe Engineering fellowship!
+This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python Programming Language passing all the test cases as given in the .js file. <br>**Completed all Test cases in 4.8 seconds.**
 
-In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
-
-The specification for this problem is written down as tests. Since we haven’t actually implemented anything, the tests are currently failing. You have to solve the problem by implementing the application and getting all the tests to pass.
+**Tested on Windows OS.**<br>
+**Author: Divy Mohan**
 
 Here's how it should work when you're done:
 
