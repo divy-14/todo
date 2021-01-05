@@ -1,13 +1,14 @@
 # Todo List Script..
 
-This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python Programming Language passing all the test cases as given in the .js file. <br>**Completed all Test cases in 4.8 seconds.**
+This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python Programming Language passing all the test cases as given in the .js file. <br>**Completed all Test cases in 16.2 seconds.**
 
 **Tested on Windows OS.**<br>
 **Author: Divy Mohan**
 
-Here's how it should work when you're done:
+<p align="center">
+	<img src="https://github.com/divy-14/todo/blob/main/Untitled.png" alt="Todo Working Proof">
+</p>
 
-[![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
 ## Getting started
 
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
